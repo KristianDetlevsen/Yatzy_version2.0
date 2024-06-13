@@ -7,7 +7,7 @@ namespace Yatzy_version2._0
         static void Main(string[] args)
         {
             Menu menu = new Menu();
-            menu.Show();
+            menu.Vis();
         }
     }
 }

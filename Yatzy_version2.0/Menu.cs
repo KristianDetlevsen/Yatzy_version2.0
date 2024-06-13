@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 namespace Yatzy_version2._0
 {
     internal class Menu
-    {
-               
-        public void Show()
+    {             
+        public void Vis()
         {
             Runde runde = new Runde();
 
