@@ -8,7 +8,6 @@ namespace Yatzy_version2._0
 {
     internal class Runde
     {
-        
         Raflebæger raflebæger = new Raflebæger();        
 
         public void IndtastNavn(Spiller spiller) 
