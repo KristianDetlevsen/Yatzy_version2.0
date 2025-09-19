@@ -12,4 +12,4 @@ Efter semesterets afslutning valgte jeg at programmere spillet helt fra bunden i
 - Konsolapplikation
 
 ## Status
-Afsluttet hyyggeprojekt
+Afsluttet hyggeprojekt
